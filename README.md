@@ -1,2 +1,2 @@
 # midi
-construtor de partituras tocadas em midi (java)
+partituras tocadas em midi (java)
